@@ -14,26 +14,26 @@ logo_url: img/logo.png
 github_username:  datsciafrica
 
 other:
-  url: /dsa2018/
+  url: /dsa2019addis/
   text: |
     <div class="" style="
                         font-weight: bold; 
                         font-size: 18px;
 
-                        ">Kenya: Data Science Africa 2018</div>
-    <div>June 04<sup>th</sup>  - June 08<sup>st</sup> 2018</div>
-    <div>Nyeri, Kenya</div>
+                        ">Next: Data Science Africa 2019</div>
+    <div>June 03<sup>rd</sup>  - June 07<sup>th</sup> 2018</div>
+    <div>Addis Ababa, Ethiopia</div>
 
 previous:
-  url: /dsa2017/
+  url: /dsa2018/
   text: | # From here to "school:"
     <div class="" style="
                         font-weight: bold; 
                         font-size: 18px;
 
-                        ">Previous: Data Science Africa 2017</div>
-    <div>July 17<sup>th</sup>  - July 21<sup>st</sup> 2017</div>
-    <div>Arusha, Tanzania</div>
+                        ">Previous: Data Science Africa 2018</div>
+    <div>June 04<sup>th</sup>  - June 08<sup>th</sup> 2018</div>
+    <div>Nyeri, Kenya</div>
 
 social:
   title: Social Event
